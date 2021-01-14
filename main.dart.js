@@ -52317,7 +52317,7 @@ case 2:return P.E(null,r)}})
 return P.F($async$cv,r)}}
 M.KM.prototype={}
 F.a4c.prototype={
-$1:function(a){return new K.kZ(H.c(["assets/images/MSS_0005.jpg","assets/images/MSS_0029.jpg","assets/images/MSS_0063.jpg","assets/images/MSS_0096.jpg","assets/images/MSS_0108.jpg","assets/images/MSS_0138.jpg","assets/images/MSS_0528.jpg"],t.i),new P.bk(t.V))},
+$1:function(a){return new K.kZ(H.c(["assets/images/MSS_0005.jpg","assets/images/MSS_0029.jpg","assets/images/MSS_0063.jpg","assets/images/MSS_0096.jpg","assets/images/MSS_0108.jpg","assets/images/MSS_0138.jpg","assets/images/MSS_0528.jpg","assets/images/IMG_9604.jpeg","assets/images/IMG_9584.jpeg"],t.i),new P.bk(t.V))},
 $S:326}
 F.uL.prototype={
 aB:function(){return new F.J9(new M.Yn(N.aeS(),H.c([N.aeU(P.m5("https://wedding-bucket.s3.ap-northeast-2.amazonaws.com/newsong_normal_175_ver3.mp3"),new M.KM())],t.EH)),C.l)}}
